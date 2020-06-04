@@ -1,5 +1,5 @@
 def unsafe?(speed)
-if speed < 60 = ture
+if speed < 60
 end
 
 
